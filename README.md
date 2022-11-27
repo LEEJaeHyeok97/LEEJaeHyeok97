@@ -13,9 +13,9 @@
 <hr>
 <h4>👋BRIEF</h4>
 <ul>
-<li>I started developing the web in 2022.3.10</li>
-<li>I decide to be backend Dev!(22/11/27~)</li>
-<li>using JAVA</li>
+<li>I started developing web in 2022.3.10</li>
+<li>I decided to be backend Dev!(22/11/27~)</li>
+<li>mainly, using JAVA</li>
 </ul>
 
 <br/>

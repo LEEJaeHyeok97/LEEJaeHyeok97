@@ -27,7 +27,6 @@
 
 
 <br/>
-기초웹프로그래밍 A+
 <br/>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hazardous10)](https://solved.ac/hazardous10/)

@@ -27,7 +27,7 @@
 
 
 <br/>
-![grade](https://user-images.githubusercontent.com/67510260/226238744-281be8be-c5f0-415d-bfd6-8d112866cda9.jpg)
+기초웹프로그래밍 A+
 <br/>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hazardous10)](https://solved.ac/hazardous10/)

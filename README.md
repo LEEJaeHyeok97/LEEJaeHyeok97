@@ -27,7 +27,7 @@
 
 
 <br/>
-![스크린샷](https://user-images.githubusercontent.com/67510260/226238320-3c5fccaa-6fec-459d-b501-b6e089f70222.jpg)
+![grade](https://user-images.githubusercontent.com/67510260/226238744-281be8be-c5f0-415d-bfd6-8d112866cda9.jpg)
 <br/>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hazardous10)](https://solved.ac/hazardous10/)

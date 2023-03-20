@@ -22,11 +22,12 @@
 <h4>💼EXPERIENCE</h4>
 <ul>
 <li><strong>MJU likelion</strong> - Backend curriculum <i>(22.3.1 ~ 22.7.13)</i></li>
-<li><strong>COW(SW convergence club)</strong> - Backend study <i>(22.7.23 ~ )</i></li>
+<li><strong>COW(SW convergence club)</strong> - Backend study <i>(22.7.23 ~ 23.3.10)</i></li>
 </ul>
 
 
 <br/>
+![스크린샷](https://user-images.githubusercontent.com/67510260/226238320-3c5fccaa-6fec-459d-b501-b6e089f70222.jpg)
 <br/>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hazardous10)](https://solved.ac/hazardous10/)

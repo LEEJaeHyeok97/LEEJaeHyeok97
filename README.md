@@ -24,7 +24,7 @@
 <li><strong>COW(SW convergence club)</strong> - Backend study <i>(22.7.23 ~ 23.3.10)</i></li>
 <li><strong>DEPth(명지대 창업 동아리)</strong> - Server Team <i>(23.5.07 ~ )</i></li>
 <li><strong>대딩코딩(연합 코딩 봉사동아리)</strong> - Python Algorithm Tutor <i>(23.7. ~ )</i></li>
-<li><strong>RisingCampPlus - 1기</strong> - Server Team - a <i>(23.7. ~ )</i></li>
+<li><strong>RisingCampPlus - 1기</strong> - Server A Team <i>(23.7. ~ )</i></li>
   
 </ul>
 

@@ -28,7 +28,8 @@
 <li><strong>DEPth(명지대 창업 동아리)</strong> - Server Team <i>(23.5.07 ~ )</i></li>
 <li><strong>대딩코딩(연합 코딩 봉사동아리)</strong> - Python Algorithm Tutor <i>(23.7. ~ 23.12)</i></li>
 <li><strong>RisingCampPlus - 1기</strong> - Server A Team <i>(23.7. ~ 23.9)</i></li>
-<li><strong>UMC(University Makeus Challenge) - 명지대 5기</strong> - SpringBoot <i>(23.9. ~ )</i></li>
+<li><strong>UMC(University Makeus Challenge) - 명지대 5기</strong> - SpringBoot <i>(23.9. ~ 24.2)</i></li>
+<li><strong>명지대 멋쟁이사자처럼(인문) 12기</strong> - Backend curriculum <i>(24.3.16 ~ )</i></li>
   
 </ul>
 

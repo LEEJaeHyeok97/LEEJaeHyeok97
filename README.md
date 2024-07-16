@@ -29,7 +29,7 @@
 <li><strong>대딩코딩(연합 코딩 봉사동아리)</strong> - Python Algorithm Tutor <i>(23.7. ~ 23.12)</i></li>
 <li><strong>RisingCampPlus - 1기</strong> - Server A Team <i>(23.7. ~ 23.9)</i></li>
 <li><strong>UMC(University Makeus Challenge) - 명지대 5기</strong> - SpringBoot <i>(23.9. ~ 24.2)</i></li>
-<li><strong>명지대 구름톤 유니브(인문) 3기</strong> - 부대표(Backend) <i>(24.7.16 ~ )</i></li>
+<li><strong>kakao x goorm 구름톤 유니브(명지대 인문) 3기</strong> - 부대표(Backend) <i>(24.7.16 ~ )</i></li>
   
 </ul>
 

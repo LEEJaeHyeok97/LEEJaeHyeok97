@@ -15,10 +15,8 @@
 
 
 ## 안녕하세요. *이재혁* 입니다.
-<ul>
-<li>I started developing web in 2022.3.10</li>
-<li>I decided to be Developer!(22/11/27~)</li>
-</ul>
+<strong>Backend Developer</strong>
+
 
 <br/>
 

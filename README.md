@@ -13,15 +13,29 @@
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
 </div>
 
-<hr>
-<h4>👋BRIEF</h4>
+
+## 👋BRIEF
 <ul>
 <li>I started developing web in 2022.3.10</li>
 <li>I decided to be Developer!(22/11/27~)</li>
 </ul>
 
 <br/>
-<h4>💼EXPERIENCE</h4>
+
+## 📬 프로젝트 및 블로그 포스트
+
+**개발하며 고민한 흔적 위주로 블로그에 기록하는 습관을 기르고 있습니다.*
+
+| Project     | Blog Posts                                                                                 | Description                                                 |
+|-------------|--------------------------------------------------------------------------------------------|-------------------------------------------------------------|
+| <div align="center">명지대 학생회 선거용 모바일 홈페이지</div> | <div align="center">내부 캐시를 활용한 조회 성능 최적화<br>관리자의 유저 권한 설정 분리</div>| <div align="center">[명지대학교 교내 실 사용 서비스(예상 사용자 연간 1만명)]<br>명지대 ABI-X 사업단 교내 웹/앱개발 공모전 대상 수상작입니다.</div> |
+| <div align="center">장부리치</div> | <div align="center">예약 시 동시성 제어</div> | <div align="center">[장부관리 및 결제 서비스]<br>kakao x goorm 구름톤 유니브 3기 단풍톤에서 진행한 프로젝트입니다.</div> |
+
+
+<br/>
+
+## 💼EXPERIENCE
+
 <ul>
 <li><strong>MJU likelion</strong> - Backend curriculum <i>(22.3.1 ~ 22.7.13)</i></li>
 <li><strong>COW(SW convergence club)</strong> - Backend study <i>(22.7.23 ~ 23.3.10)</i></li>
@@ -33,8 +47,13 @@
   
 </ul>
 
+
+
+
 <br/>
-<h4>🏆Awards</h4>
+
+## 🏆Awards
+
 <ul>
 <li><strong>명지대학교 2024학년도 제 3회 창의적 SW프로그램 경진대회(SW프로그램 개발 부문) - 대상(大賞)</li>
 <li><strong>kakao x goorm 구름톤 유니브 3기 15개 대학 연합 해커톤 - 대상(大賞)</li>

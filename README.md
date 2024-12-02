@@ -29,7 +29,7 @@
 |-------------|--------------------------------------------------------------------------------------------|-------------------------------------------------------------|
 | <div align="center">학생회 선거용 홈페이지</div> | <div align="center">내부 캐시를 활용한 조회 성능 최적화<br>관리자의 유저 권한 설정 분리</div>| <div align="center">[명지대 교내 실사용 서비스(예상 사용자 연간 1만명)]<br>명지대 ABI-X 사업단 교내 웹/앱개발 공모전 대상(1위) 수상작입니다.</div> |
 | <div align="center">장부리치</div> | <div align="center">주문, 담기 시 동시성 제어</div> | <div align="center">[장부관리 및 결제 서비스]<br>kakao x goorm 구름톤 유니브 3기 단풍톤에서 진행한 프로젝트입니다.</div> |
-| <div align="center">???</div> | <div align="center">준비중</div> | <div align="center">[커피&스페셜티 큐레이팅]<br>IT 연합동아리 YAPP에서 진행한 프로젝트입니다.</div> |
+| <div align="center">준비중</div> | <div align="center">준비중</div> | <div align="center">[커피&스페셜티 큐레이팅]<br>IT 연합동아리 YAPP에서 진행한 프로젝트입니다.</div> |
 
 
 <br/>

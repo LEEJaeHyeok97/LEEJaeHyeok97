@@ -4,8 +4,12 @@ URL = "https://icecupregular.tistory.com/rss"
 RSS_FEED = feedparser.parse(URL)
 MAX_POST = 5
 
+introduce_text = """
+<li> Hi, I'm JaeHyeok Lee, a dev writing backend developer! passionate about making engaging experiences </li>
+"""
+
 markdown_text = """
-## Hi, I'm JaeHyeok Lee, a dev writing backend developer! passionate about making engaging experiences
+## 📬 Latest Blog Posts
 """  # list of blog posts will be appended here
 
 boj_tier = """

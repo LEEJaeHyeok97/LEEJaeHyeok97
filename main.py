@@ -20,5 +20,5 @@ f.write(markdown_text)
 f.close()
 
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{hazardous10})
+[![](https://mazassumnida.wtf/api/mini/generate_badge?boj=hazardous10)](https://solved.ac/hazardous10/)
+![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fohksj77&count_bg=%2329B0C6&title_bg=%23434343&icon=&icon_color=%23E7E7E7&title=&edge_flat=false)

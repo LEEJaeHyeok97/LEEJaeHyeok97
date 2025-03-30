@@ -5,9 +5,7 @@ RSS_FEED = feedparser.parse(URL)
 MAX_POST = 5
 
 markdown_text = """
-## Enjoys solving problems and controlling flow with JavaScript
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbitnaleeeee&count_bg=%23555555&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-## Recent Post 
+## Hi, I'm JaeHyeok Lee, a dev writing backend developer! passionate about making engaging experiences
 """  # list of blog posts will be appended here
 
 for idx, feed in enumerate(RSS_FEED['entries']):
@@ -20,3 +18,7 @@ for idx, feed in enumerate(RSS_FEED['entries']):
 f = open("README.md", mode="w", encoding="utf-8")
 f.write(markdown_text)
 f.close()
+
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{hazardous10})

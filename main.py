@@ -5,7 +5,8 @@ RSS_FEED = feedparser.parse(URL)
 MAX_POST = 5
 
 introduce_text = """
-<li> Hi, I'm JaeHyeok Lee, a dev writing backend developer! passionate about making engaging experiences </li>
+## Hi, God bless us 👋
+Hi, I'm JaeHyeok Lee, a dev writing backend developer! passionate about making engaging experiences
 """
 
 markdown_text = """

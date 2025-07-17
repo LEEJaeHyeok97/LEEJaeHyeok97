@@ -2,7 +2,7 @@ import feedparser, time
 
 URL = "https://icecupregular.tistory.com/rss"
 RSS_FEED = feedparser.parse(URL)
-MAX_POST = 5
+MAX_POST = 4
 
 introduce_text = """
 ## Hi, God bless us 👋

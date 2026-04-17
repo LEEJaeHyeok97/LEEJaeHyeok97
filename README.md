@@ -3,7 +3,7 @@
 Hi, I'm JaeHyeok Lee, a dev writing backend developer! passionate about making engaging experiences
 
 ## 📬 Latest Blog Posts
-[2026/04/16 - Hibernate 6, 7 버전의 @SoftDelete 사용법 비교(feat. TIMESTAMP)](https://icecupregular.tistory.com/38) <br/>
+[2026/04/16 - @SoftDelete 의 TIMESTAMP 사용법(Hibernate 7 버전)](https://icecupregular.tistory.com/38) <br/>
 [2026/04/14 - [MySQL] 특정 유저가 댓글 단 모든 게시글 조회 쿼리 개선하기](https://icecupregular.tistory.com/37) <br/>
 [2026/04/02 - [MySQL 쿼리 최적화] 실행 계획을 분석해보자](https://icecupregular.tistory.com/36) <br/>
 [2026/02/12 - [MySQL] 버퍼풀과 innodb 버퍼풀 인스턴스 설정](https://icecupregular.tistory.com/35) <br/>

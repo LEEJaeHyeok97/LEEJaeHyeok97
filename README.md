@@ -3,7 +3,7 @@
 Hi, I'm JaeHyeok Lee, a dev writing backend developer! passionate about making engaging experiences
 
 ## 📬 Latest Blog Posts
-[2026/09/30 - [설계] 운영중인 서버에 푸시 알림 추가하기](https://icecupregular.tistory.com/49) <br/>
+[2026/09/30 - 운영중인 서비스에 메시지큐 없이 푸시 알림 만들기](https://icecupregular.tistory.com/49) <br/>
 [2026/08/04 - 왜 우리 서비스는 자바 21버전과 스프링 프레임워크4.0 버전을 선택했는가?](https://icecupregular.tistory.com/48) <br/>
 [2026/07/27 - 클라우드와치로 로깅 시스템을 구축한 후 해결할 수 있었던 문제들](https://icecupregular.tistory.com/47) <br/>
 [2026/07/20 - MySQL 공식문서(10.3.9) 분석 - B-Tree 인덱스와 Hash 인덱스의 비교](https://icecupregular.tistory.com/46) <br/>

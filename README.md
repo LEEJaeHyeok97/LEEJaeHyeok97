@@ -6,7 +6,7 @@ Hi, I'm JaeHyeok Lee, a dev writing backend developer! passionate about making e
 [2026/10/25 - Redis가 가끔 1분간 응답을 안하는걸 발견했다](https://icecupregular.tistory.com/52) <br/>
 [2026/10/15 - 우리 서비스에 레디스가 고장나면 ..?](https://icecupregular.tistory.com/51) <br/>
 [2026/10/14 - 부하 테스트로 발견한 N+1문제를 TestContainer로 CI 테스트에 고정하기](https://icecupregular.tistory.com/50) <br/>
-[2026/09/30 - MySQL을 MQ로 운영중인 서비스의 푸시 알림 전송이 실패했다](https://icecupregular.tistory.com/49) <br/>
+[2026/09/30 - MySQL을 MQ로 운영중인 서비스의 푸시 알림 운영하기](https://icecupregular.tistory.com/49) <br/>
 [2026/08/04 - 왜 우리 서비스는 자바 21버전과 스프링 프레임워크4.0 버전을 선택했는가?](https://icecupregular.tistory.com/48) <br/>
 
 ## [![](https://mazassumnida.wtf/api/mini/generate_badge?boj=hazardous10)](https://solved.ac/hazardous10/)
